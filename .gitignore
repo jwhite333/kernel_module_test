@@ -1,0 +1,8 @@
+.test_module*
+*.o
+*.ko
+*.mod*
+*.symvers
+*.order
+
+userspace/test_app
